@@ -22,6 +22,11 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## ScreenShots
+[!ScreenShot 1](https://github.com/yuze98/OPTOMATICA-TASK/s1)
+[!ScreenShot 2](https://github.com/yuze98/OPTOMATICA-TASK/s2)
+
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
@@ -34,6 +39,7 @@ This is a fullstack task provided by optomatica
 - postgresql
 - pgadmin4
 - postman
+- ReactJs
 
 ## Back-End setup
 ### steps to run project (in dev mode locally)

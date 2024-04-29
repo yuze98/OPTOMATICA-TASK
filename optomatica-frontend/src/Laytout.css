@@ -1,0 +1,12 @@
+/* Layout.css */
+.nav-links {
+    list-style-type: none; /* Remove bullet points */
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    color: white; /* Set text color to white */
+  }
+  
+  .nav-links li {
+    padding: 10px;
+  }
+  
