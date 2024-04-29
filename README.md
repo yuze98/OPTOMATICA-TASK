@@ -23,8 +23,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## ScreenShots
-[!ScreenShot 1](https://github.com/yuze98/OPTOMATICA-TASK/blob/main/s1.jpg)
-[!ScreenShot 2](https://github.com/yuze98/OPTOMATICA-TASK/blob/main/s2.jpg)
+[!ScreenShot1](https://github.com/yuze98/OPTOMATICA-TASK/blob/main/s1.jpg)
+[!ScreenShot2](https://github.com/yuze98/OPTOMATICA-TASK/blob/main/s2.jpg)
 
 
 ## Description
