@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.facebook.com/Optomatica/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPO4xtUxPwqjXsds1bNXUWYKgyYDhsUUTSiW3QWeBpxw&s" width="200" alt="Optomatica Logo" /></a>
+  <a href="https://www.facebook.com/Optomatica/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPO4xtUxPwqjXsds1bNXUWYKgyYDhsUUTSiW3QWeBpxw&s" width="500" alt="Optomatica Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
