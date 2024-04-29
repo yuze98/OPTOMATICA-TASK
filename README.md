@@ -27,10 +27,9 @@
 ![ScreenShot2](https://github.com/yuze98/OPTOMATICA-TASK/blob/main/s2.jpg)
 
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 # OPTOMATICA-TASK
+
+## Description
 This is a fullstack task provided by optomatica
 
 ## technologies
