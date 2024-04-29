@@ -25,48 +25,28 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+# OPTOMATICA-TASK
+This is a fullstack task provided by optomatica
 
-## Installation
+## technologies
+- Nestjs
+- prisma
+- postgresql
+- pgadmin4
+- postman
 
-```bash
-$ npm install
-```
+## Back-End setup
+### steps to run project (in dev mode locally)
+- create db in pgadmin4 called optomatica after installing postgresql
+- change .env file connection string to yours
+- npm i
+- npx prisma migrate dev --name initialize-database
+- npm run start:dev
 
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+## Front-End setup
+### steps to prepare react webapp
+- npm i
+- npm run dev
 
 ## License
 
